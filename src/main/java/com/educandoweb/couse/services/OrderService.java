@@ -9,7 +9,10 @@ import org.springframework.stereotype.Service;
 import com.educandoweb.couse.entities.Order;
 import com.educandoweb.couse.repositories.OrderRepository;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> aab77868d18761ad02139aa64181e0ec8c446741
 @Service
 public class OrderService {
 
